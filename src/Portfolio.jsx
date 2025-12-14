@@ -91,7 +91,7 @@ const Portfolio = () => {
             <div className="flex justify-center">
   <div className="w-80 h-80 bg-gradient-to-br from-cyan-400 to-blue-500 rounded-full flex items-center justify-center shadow-2xl p-2">
     <img 
-      src="/src/assets/raju.jpg" 
+      src="/raju.jpg" 
       alt="Raju Reddy" 
       className="w-full h-full rounded-full object-cover"
     />
